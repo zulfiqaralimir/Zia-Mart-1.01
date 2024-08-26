@@ -6,3 +6,5 @@ Zia Mart is a collection of Microservices with Kafka integration using Docker
 [Docker](https://www.docker.com/)
 
 [Kong](https://konghq.com/)
+
+[Python Poetry](https://python-poetry.org/)
